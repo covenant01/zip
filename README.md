@@ -3,7 +3,7 @@
 
 Important:
 Covenant will soon be available for KODI 19 users
-12-11-2021
+be patient
 
 Instructions for adding this repo:
 
