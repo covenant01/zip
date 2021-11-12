@@ -1,6 +1,10 @@
 # Covenant New Repository 
 ## Current Version: Master
 
+Important:
+Covenant will soon be available for KODI 19 users
+12-11-2021
+
 Instructions for adding this repo:
 
 
